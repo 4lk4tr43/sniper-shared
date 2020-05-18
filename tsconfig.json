@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"experimentalDecorators": true,
+		"lib": ["esnext"],
+		"module": "commonjs",
+		"target": "esnext"
+	}
+}
